@@ -2,35 +2,70 @@
 
 const gridData = [
     {
-        bank: "l   웰컴저축은행",
-        product: '     WELCOME 직장인사랑 보통예금',
-        rate: '연 3.5%',
-        cap: '1억원',
-        payment_date: '매월 1일'
-    },
-    {
-        bank: '   웰컴저축은행',
+        bank: "웰컴저축은행",
         product: 'WELCOME 직장인사랑 보통예금',
         rate: '연 3.5%',
         cap: '1억원',
         payment_date: '매월 1일'
     },
     {
-        bank: '   웰컴저축은행',
+        bank: '웰컴저축은행',
         product: 'WELCOME 직장인사랑 보통예금',
         rate: '연 3.5%',
         cap: '1억원',
         payment_date: '매월 1일'
     },
     {
-        bank: '   웰컴저축은행',
+        bank: '웰컴저축은행',
         product: 'WELCOME 직장인사랑 보통예금',
         rate: '연 3.5%',
         cap: '1억원',
         payment_date: '매월 1일'
     },
     {
-        bank: '   웰컴저축은행',
+        bank: '웰컴저축은행',
+        product: 'WELCOME 직장인사랑 보통예금',
+        rate: '연 3.5%',
+        cap: '1억원',
+        payment_date: '매월 1일'
+    },
+    {
+        bank: '웰컴저축은행',
+        product: 'WELCOME 직장인사랑 보통예금',
+        rate: '연 3.5%',
+        cap: '1억원',
+        payment_date: '매월 1일'
+    },
+    {
+        bank: "웰컴저축은행",
+        product: 'WELCOME 직장인사랑 보통예금',
+        rate: '연 3.5%',
+        cap: '1억원',
+        payment_date: '매월 1일'
+    },
+    {
+        bank: '웰컴저축은행',
+        product: 'WELCOME 직장인사랑 보통예금',
+        rate: '연 3.5%',
+        cap: '1억원',
+        payment_date: '매월 1일'
+    },
+    {
+        bank: '웰컴저축은행',
+        product: 'WELCOME 직장인사랑 보통예금',
+        rate: '연 3.5%',
+        cap: '1억원',
+        payment_date: '매월 1일'
+    },
+    {
+        bank: '웰컴저축은행',
+        product: 'WELCOME 직장인사랑 보통예금',
+        rate: '연 3.5%',
+        cap: '1억원',
+        payment_date: '매월 1일'
+    },
+    {
+        bank: '웰컴저축은행',
         product: 'WELCOME 직장인사랑 보통예금',
         rate: '연 3.5%',
         cap: '1억원',
@@ -52,7 +87,7 @@ columns: [
     {
         header: '파킹통장',
         name: 'product',
-        whiteSpace: "pre-wrap"
+        whiteSpace: "normal"
     },
     {
         header: '최고금리',
