@@ -179,10 +179,10 @@ columns: [
         align: 'center'
     }
 ],
-// columnOptions: {
-//     frozenCount: 1, // Freeze 3 left most columns and 
-//     frozenBorderWidth: 2 // set the border width of frozen columns to be 2px.
-// }
+columnOptions: {
+    frozenCount: 2, // Freeze 3 left most columns and 
+    frozenBorderWidth: 0 // set the border width of frozen columns to be 2px.
+}
 });
 
 tui.Grid.applyTheme('striped');
