@@ -749,7 +749,7 @@
 
 		&.style1 {
 			background-color: #fff;
-			text-shadow: 1px 1px 0px #fff;
+			// text-shadow: 1px 1px 0px #fff;
 			text-align: left;
 
 			h2 {
@@ -800,10 +800,14 @@
 		}
 	}
 
+	#deposit, #installment {
+		display: none;
+	}
+
 /* Nav */
 
 	#nav {
-		background-color: #282828;
+		background-color: #1A6DFF;
 		text-align: center;
 		position: fixed;
 		left: 0;

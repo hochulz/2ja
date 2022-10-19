@@ -1568,7 +1568,6 @@ ul.actions li:first-child {
 }
 .wrapper.style1 {
   background-color: #fff;
-  text-shadow: 1px 1px 0px #fff;
   text-align: left;
 }
 .wrapper.style1 h2 {
@@ -1610,9 +1609,13 @@ ul.actions li:first-child {
   background: #252525;
 }
 
+#deposit, #installment {
+  display: none;
+}
+
 /* Nav */
 #nav {
-  background-color: #282828;
+  background-color: #1A6DFF;
   text-align: center;
   position: fixed;
   left: 0;
